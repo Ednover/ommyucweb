@@ -67,3 +67,8 @@ params:
     title: "Olimpiadas Mexicanas de Matemáticas en Yucatán"
     subtitle:
       Las pruebas de la **Olimpiada de Matemáticas** no son exámenes tradicionales que tienen como objetivo evaluar el conocimiento de un listado de temas, sino presentan problemas de contenido matemático para que los alumnos resuelvan de forma creativa. Por ello, la Olimpiada no maneja un temario específico, no hay un “listado de temas” que debas aprender para poder participar en la Olimpiada.
+    buttons:
+      - name: Materiales
+        url: material
+      - name: Sobre la olimpiada
+        url: about
