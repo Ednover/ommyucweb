@@ -8,6 +8,7 @@ module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
 
+canonifyurls: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
