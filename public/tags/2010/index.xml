@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2010 on OMM Yucatán</title>
-    <link>https://example.org/tags/2010/</link>
+    <link>https://ednover.github.io/ommyucweb/tags/2010/</link>
     <description>Recent content in 2010 on OMM Yucatán</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 19:22:21 -0600</lastBuildDate>
-    <atom:link href="https://example.org/tags/2010/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ednover.github.io/ommyucweb/tags/2010/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tzaloa Vol 2, No. 1</title>
-      <link>https://example.org/material/revistas/2010/2-1/</link>
+      <link>https://ednover.github.io/ommyucweb/material/revistas/2010/2-1/</link>
       <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
-      <guid>https://example.org/material/revistas/2010/2-1/</guid>
+      <guid>https://ednover.github.io/ommyucweb/material/revistas/2010/2-1/</guid>
       <description> Descargar </description>
     </item>
     <item>
       <title>Tzaloa Vol 2, No. 2</title>
-      <link>https://example.org/material/revistas/2010/2-2/</link>
+      <link>https://ednover.github.io/ommyucweb/material/revistas/2010/2-2/</link>
       <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
-      <guid>https://example.org/material/revistas/2010/2-2/</guid>
+      <guid>https://ednover.github.io/ommyucweb/material/revistas/2010/2-2/</guid>
       <description> Descargar </description>
     </item>
     <item>
       <title>Tzaloa Vol 2, No. 3</title>
-      <link>https://example.org/material/revistas/2010/2-3/</link>
+      <link>https://ednover.github.io/ommyucweb/material/revistas/2010/2-3/</link>
       <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
-      <guid>https://example.org/material/revistas/2010/2-3/</guid>
+      <guid>https://ednover.github.io/ommyucweb/material/revistas/2010/2-3/</guid>
       <description> Descargar </description>
     </item>
     <item>
       <title>Tzaloa Vol 2, No. 4</title>
-      <link>https://example.org/material/revistas/2010/2-4/</link>
+      <link>https://ednover.github.io/ommyucweb/material/revistas/2010/2-4/</link>
       <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
-      <guid>https://example.org/material/revistas/2010/2-4/</guid>
+      <guid>https://ednover.github.io/ommyucweb/material/revistas/2010/2-4/</guid>
       <description> Descargar </description>
     </item>
   </channel>
