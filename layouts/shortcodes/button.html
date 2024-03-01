@@ -1,0 +1,5 @@
+{{ $file := .Get "file" | default "#" }}
+
+<a href='{{ $file }}' download>
+   {{ with .Inner }}{{ . }}{{ else }}{{ .Get "text" }}{{ end }}
+</a>

@@ -1,0 +1,3 @@
+{{ $file := .Get "file" | default "#" }}
+
+<img src="'{{relLangURL ""}}docs/material/{{ $file }}'" alt="">

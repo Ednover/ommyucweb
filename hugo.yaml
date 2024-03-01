@@ -1,0 +1,68 @@
+baseURL: https://example.org/
+languageCode: en-us
+paginate: 5
+title: OMM Yucatán
+theme: ["PaperMod"]
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["material"]
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - name: Materiales
+      url: material
+      weight: 10
+    - name: Sobre la olimpiada
+      url: about
+      weight: 20
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+
+  defaultTheme: auto
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+
+  label: 
+    icon: images/logos/ommlogo.svg
+    iconHeight: 50
+
+  assets:
+    favicon: "images/logos/ommlogo.svg"
+    favicon16x16: "images/logos/ommlogo.svg"
+    favicon32x32: "images/logos/ommlogo.svg"
+    apple_touch_icon: "images/logos/ommlogo.svg"
+    safari_pinned_tab: "images/logos/ommlogo.svg"
+    disableFingerprinting: true
+
+  profileMode: 
+    enabled: true
+    title: "Olimpiadas Mexicanas de Matemáticas en Yucatán"
+    subtitle:
+      Las pruebas de la **Olimpiada de Matemáticas** no son exámenes tradicionales que tienen como objetivo evaluar el conocimiento de un listado de temas, sino presentan problemas de contenido matemático para que los alumnos resuelvan de forma creativa. Por ello, la Olimpiada no maneja un temario específico, no hay un “listado de temas” que debas aprender para poder participar en la Olimpiada.
