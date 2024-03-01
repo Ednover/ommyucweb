@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OMM Yucatán</title>
+    <link>https://example.org/</link>
+    <description>Recent content on OMM Yucatán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2024 18:16:24 -0600</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tzaloa Vol 1, No. 1</title>
+      <link>https://example.org/material/revistas/2009/1-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2009/1-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 1, No. 2</title>
+      <link>https://example.org/material/revistas/2009/1-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2009/1-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 1, No. 3</title>
+      <link>https://example.org/material/revistas/2009/1-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2009/1-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 1, No. 4</title>
+      <link>https://example.org/material/revistas/2009/1-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2009/1-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 2, No. 1</title>
+      <link>https://example.org/material/revistas/2010/2-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2010/2-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 2, No. 2</title>
+      <link>https://example.org/material/revistas/2010/2-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2010/2-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 2, No. 3</title>
+      <link>https://example.org/material/revistas/2010/2-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2010/2-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 2, No. 4</title>
+      <link>https://example.org/material/revistas/2010/2-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2010/2-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 1</title>
+      <link>https://example.org/material/revistas/2011/3-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 2</title>
+      <link>https://example.org/material/revistas/2011/3-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 3</title>
+      <link>https://example.org/material/revistas/2011/3-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 4</title>
+      <link>https://example.org/material/revistas/2011/3-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 4, No. 1</title>
+      <link>https://example.org/material/revistas/2012/4-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2012/4-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 4, No. 2</title>
+      <link>https://example.org/material/revistas/2012/4-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2012/4-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 4, No. 3</title>
+      <link>https://example.org/material/revistas/2012/4-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2012/4-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 4, No. 4</title>
+      <link>https://example.org/material/revistas/2012/4-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2012/4-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 5, No. 1</title>
+      <link>https://example.org/material/revistas/2013/5-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2013/5-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 5, No. 2</title>
+      <link>https://example.org/material/revistas/2013/5-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2013/5-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 5, No. 3</title>
+      <link>https://example.org/material/revistas/2013/5-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2013/5-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 5, No. 4</title>
+      <link>https://example.org/material/revistas/2013/5-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2013/5-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 6, No. 1</title>
+      <link>https://example.org/material/revistas/2014/6-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2014/6-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 6, No. 2</title>
+      <link>https://example.org/material/revistas/2014/6-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2014/6-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 6, No. 3</title>
+      <link>https://example.org/material/revistas/2014/6-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2014/6-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 6, No. 4</title>
+      <link>https://example.org/material/revistas/2014/6-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2014/6-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 7, No. 1</title>
+      <link>https://example.org/material/revistas/2015/7-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2015/7-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 7, No. 2</title>
+      <link>https://example.org/material/revistas/2015/7-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2015/7-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 7, No. 3</title>
+      <link>https://example.org/material/revistas/2015/7-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2015/7-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 7, No. 4</title>
+      <link>https://example.org/material/revistas/2015/7-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2015/7-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 8, No. 1</title>
+      <link>https://example.org/material/revistas/2016/8-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2016/8-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 8, No. 2</title>
+      <link>https://example.org/material/revistas/2016/8-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2016/8-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 8, No. 3</title>
+      <link>https://example.org/material/revistas/2016/8-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2016/8-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 8, No. 4</title>
+      <link>https://example.org/material/revistas/2016/8-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2016/8-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 9, No. 1</title>
+      <link>https://example.org/material/revistas/2017/9-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2017/9-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 9, No. 2</title>
+      <link>https://example.org/material/revistas/2017/9-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2017/9-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 9, No. 3</title>
+      <link>https://example.org/material/revistas/2017/9-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2017/9-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 9, No. 4</title>
+      <link>https://example.org/material/revistas/2017/9-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2017/9-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 10, No. 1</title>
+      <link>https://example.org/material/revistas/2018/10-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2018/10-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 10, No. 2</title>
+      <link>https://example.org/material/revistas/2018/10-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2018/10-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 10, No. 3</title>
+      <link>https://example.org/material/revistas/2018/10-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2018/10-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 10, No. 4</title>
+      <link>https://example.org/material/revistas/2018/10-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2018/10-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 11, No. 1</title>
+      <link>https://example.org/material/revistas/2019/11-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2019/11-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 11, No. 2</title>
+      <link>https://example.org/material/revistas/2019/11-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2019/11-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 11, No. 3</title>
+      <link>https://example.org/material/revistas/2019/11-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2019/11-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 11, No. 4</title>
+      <link>https://example.org/material/revistas/2019/11-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2019/11-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 12, No. 1</title>
+      <link>https://example.org/material/revistas/2020/12-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2020/12-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 12, No. 2</title>
+      <link>https://example.org/material/revistas/2020/12-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2020/12-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 12, No. 3</title>
+      <link>https://example.org/material/revistas/2020/12-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2020/12-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 12, No. 4</title>
+      <link>https://example.org/material/revistas/2020/12-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2020/12-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 13, No. 1</title>
+      <link>https://example.org/material/revistas/2021/13-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2021/13-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 13, No. 2</title>
+      <link>https://example.org/material/revistas/2021/13-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2021/13-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 13, No. 3</title>
+      <link>https://example.org/material/revistas/2021/13-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2021/13-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 13, No. 4</title>
+      <link>https://example.org/material/revistas/2021/13-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2021/13-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 14, No. 1</title>
+      <link>https://example.org/material/revistas/2022/14-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2022/14-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 14, No. 2</title>
+      <link>https://example.org/material/revistas/2022/14-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2022/14-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 14, No. 3</title>
+      <link>https://example.org/material/revistas/2022/14-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2022/14-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 14, No. 4</title>
+      <link>https://example.org/material/revistas/2022/14-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2022/14-4/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 15, No. 1</title>
+      <link>https://example.org/material/revistas/2023/15-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2023/15-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 15, No. 2</title>
+      <link>https://example.org/material/revistas/2023/15-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2023/15-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 15, No. 3</title>
+      <link>https://example.org/material/revistas/2023/15-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2023/15-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 15, No. 4</title>
+      <link>https://example.org/material/revistas/2023/15-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2023/15-4/</guid>
+      <description> Descargar</description>
+    </item>
+    <item>
+      <title>No. 16 - 2002</title>
+      <link>https://example.org/material/folletos/introductorio/i-16/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-16/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 17 - 2004</title>
+      <link>https://example.org/material/folletos/introductorio/i-17/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-17/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 18 - 2004</title>
+      <link>https://example.org/material/folletos/introductorio/i-18/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-18/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 19 - 2005</title>
+      <link>https://example.org/material/folletos/introductorio/i-19/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-19/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 20 - 2006</title>
+      <link>https://example.org/material/folletos/introductorio/i-20/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-20/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-21/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-21/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 20 - 2006</title>
+      <link>https://example.org/material/folletos/introductorio/i-22/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-22/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 20 - 2006</title>
+      <link>https://example.org/material/folletos/introductorio/i-26/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-26/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-27/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-27/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-28/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-28/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-29/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-29/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-30/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-30/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 18 - 2004</title>
+      <link>https://example.org/material/folletos/avanzado/a-18/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-18/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 19 - 2005</title>
+      <link>https://example.org/material/folletos/avanzado/a-19/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-19/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 20 - 2006</title>
+      <link>https://example.org/material/folletos/avanzado/a-20/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-20/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/avanzado/a-21/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-21/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Sobre la Olimpiada</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Tue, 09 Jan 2024 18:16:24 -0600</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>¿Qué es la Olimpiada? La Olimpiada de Matemáticas es un programa anual para promover la difusión y estudio creativo de las matemáticas mediante un concurso y sus actividades de soporte. En México es un programa de la Sociedad Matemática Mexicana (smm.org.mx) y es el concurso preuniversitario de matemáticas más importante en México.
+Si deseas información sobre material para estudiar y prepararte, tenemos una página especial para ello.
+Procesos selectivos El estado de Yucatán participa en 3 concursos nacionales con perfiles y requisitos distintos, por lo que en ocasiones puede haber cierta confusión respecto a las etapas y procesos de selección.</description>
+    </item>
+  </channel>
+</rss>

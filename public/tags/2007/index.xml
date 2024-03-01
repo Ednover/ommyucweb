@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2007 on OMM Yucatán</title>
+    <link>https://example.org/tags/2007/</link>
+    <description>Recent content in 2007 on OMM Yucatán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 19:22:21 -0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/2007/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-21/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-21/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-27/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-27/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-28/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-28/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-29/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-29/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/introductorio/i-30/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/introductorio/i-30/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/avanzado/a-21/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-21/</guid>
+      <description> Descargar </description>
+    </item>
+  </channel>
+</rss>

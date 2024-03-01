@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2011 on OMM Yucatán</title>
+    <link>https://example.org/material/revistas/2011/</link>
+    <description>Recent content in 2011 on OMM Yucatán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 19:22:21 -0600</lastBuildDate>
+    <atom:link href="https://example.org/material/revistas/2011/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tzaloa Vol 3, No. 1</title>
+      <link>https://example.org/material/revistas/2011/3-1/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-1/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 2</title>
+      <link>https://example.org/material/revistas/2011/3-2/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-2/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 3</title>
+      <link>https://example.org/material/revistas/2011/3-3/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-3/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>Tzaloa Vol 3, No. 4</title>
+      <link>https://example.org/material/revistas/2011/3-4/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/revistas/2011/3-4/</guid>
+      <description> Descargar </description>
+    </item>
+  </channel>
+</rss>

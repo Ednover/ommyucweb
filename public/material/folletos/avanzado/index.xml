@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Folletos Avanzados on OMM Yucatán</title>
+    <link>https://example.org/material/folletos/avanzado/</link>
+    <description>Recent content in Folletos Avanzados on OMM Yucatán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 19:22:21 -0600</lastBuildDate>
+    <atom:link href="https://example.org/material/folletos/avanzado/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No. 18 - 2004</title>
+      <link>https://example.org/material/folletos/avanzado/a-18/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-18/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 19 - 2005</title>
+      <link>https://example.org/material/folletos/avanzado/a-19/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-19/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 20 - 2006</title>
+      <link>https://example.org/material/folletos/avanzado/a-20/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-20/</guid>
+      <description> Descargar </description>
+    </item>
+    <item>
+      <title>No. 21 - 2007</title>
+      <link>https://example.org/material/folletos/avanzado/a-21/</link>
+      <pubDate>Mon, 01 Jan 2024 19:22:21 -0600</pubDate>
+      <guid>https://example.org/material/folletos/avanzado/a-21/</guid>
+      <description> Descargar </description>
+    </item>
+  </channel>
+</rss>
